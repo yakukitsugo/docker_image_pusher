@@ -1,1 +1,1 @@
-marcdegraef/emsoft
+marcdegraef/emsoft:buildx-latest
